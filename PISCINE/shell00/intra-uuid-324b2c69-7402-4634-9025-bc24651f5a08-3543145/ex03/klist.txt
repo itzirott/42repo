@@ -1,0 +1,5 @@
+Credentials cache: API:423F4EF9-A8FE-4AFA-BC8F-324206DE90C1
+        Principal: iarribas@42URDULIZ.COM
+
+  Issued                Expires               Principal
+Apr 12 16:21:45 2021  Apr 13 02:21:45 2021  krbtgt/42URDULIZ.COM@42URDULIZ.COM
